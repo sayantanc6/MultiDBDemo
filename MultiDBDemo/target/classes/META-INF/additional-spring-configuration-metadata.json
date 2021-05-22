@@ -1,0 +1,197 @@
+{"properties": [
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.url'"
+  },
+  {
+    "name": "spring.staging-datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.username'"
+  },
+  {
+    "name": "spring.staging-datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-datasource.password'"
+  },
+  {
+    "name": "spring.actual-datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual-datasource.url'"
+  },
+  {
+    "name": "spring.actual-datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual-datasource.password'"
+  },
+  {
+    "name": "spring.actual-datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual-datasource.username'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  },
+  {
+    "name": "jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbcUrl'"
+  },
+  {
+    "name": "jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbcUrl'"
+  },
+  {
+    "name": "jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbcUrl'"
+  },
+  {
+    "name": "spring.staging.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging.datasource.url'"
+  },
+  {
+    "name": "spring.staging.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging.datasource.username'"
+  },
+  {
+    "name": "spring.staging.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging.datasource.password'"
+  },
+  {
+    "name": "spring.actual.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual.datasource.url'"
+  },
+  {
+    "name": "spring.actual.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual.datasource.username'"
+  },
+  {
+    "name": "spring.actual.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual.datasource.password'"
+  },
+  {
+    "name": "spring.staging.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.actual.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.actual.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.staging-jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.staging-jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.actual-jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual-jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.staging-jpa.generate-ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-jpa.generate-ddl'"
+  },
+  {
+    "name": "spring.staging-jpa.generate-ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.staging-jpa.generate-ddl'"
+  },
+  {
+    "name": "spring.actual-jpa.generate-ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.actual-jpa.generate-ddl'"
+  }
+]}
